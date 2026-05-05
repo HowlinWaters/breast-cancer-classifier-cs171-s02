@@ -5,5 +5,5 @@
 # Virtual Environment
 .venv
 
-# VSCode
-.vscode
+# Output
+/out
